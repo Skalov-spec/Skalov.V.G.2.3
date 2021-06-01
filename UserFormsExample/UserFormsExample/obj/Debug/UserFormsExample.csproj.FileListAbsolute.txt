@@ -1,0 +1,9 @@
+D:\навчання\донну\програм\Я\2 с\якась робоат\UserFormsExample\UserFormsExample\bin\Debug\UserFormsExample.exe.config
+D:\навчання\донну\програм\Я\2 с\якась робоат\UserFormsExample\UserFormsExample\bin\Debug\UserFormsExample.exe
+D:\навчання\донну\програм\Я\2 с\якась робоат\UserFormsExample\UserFormsExample\bin\Debug\UserFormsExample.pdb
+D:\навчання\донну\програм\Я\2 с\якась робоат\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.csprojAssemblyReference.cache
+D:\навчання\донну\програм\Я\2 с\якась робоат\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.MainForm.resources
+D:\навчання\донну\програм\Я\2 с\якась робоат\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.csproj.GenerateResource.cache
+D:\навчання\донну\програм\Я\2 с\якась робоат\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.csproj.CoreCompileInputs.cache
+D:\навчання\донну\програм\Я\2 с\якась робоат\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.exe
+D:\навчання\донну\програм\Я\2 с\якась робоат\UserFormsExample\UserFormsExample\obj\Debug\UserFormsExample.pdb
